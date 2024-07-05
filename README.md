@@ -8,7 +8,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasnebredun&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnebredun&hide_progress=true&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
